@@ -1,0 +1,1 @@
+This is Sean Lagan's first Git Project
